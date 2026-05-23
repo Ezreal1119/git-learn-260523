@@ -9,3 +9,5 @@ DEV 2.0.0
 Annie: dnsoaincoiuwqionionvixmcoik
 
 DEV 3.0.0
+
+Fixed one bug in REL 3.0.0
